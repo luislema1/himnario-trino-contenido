@@ -1,0 +1,202 @@
+[
+  {
+    "number": 1,
+    "title": "Al Dios eterno cantare",
+    "lyrics": "Al Dios eterno cantare\nSu luz me guia al caminar\nMi corazon descansa en El\nY en su amor quiero morar\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Adoración",
+    "author": "Himnario Trino de Dios",
+    "key": "G",
+    "is_active": true
+  },
+  {
+    "number": 2,
+    "title": "Cristo es mi esperanza",
+    "lyrics": "Cristo es mi esperanza fiel\nRoca firme en tempestad\nCuando el alma busca paz\nSu palabra brillara\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Esperanza",
+    "author": "Himnario Trino de Dios",
+    "key": "D",
+    "is_active": true
+  },
+  {
+    "number": 3,
+    "title": "Con gratitud venimos",
+    "lyrics": "Con gratitud venimos hoy\nAnte tu trono, buen Senor\nPan de vida, fuente fiel\nRecibe nuestra adoracion\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Gratitud",
+    "author": "Himnario Trino de Dios",
+    "key": "C",
+    "is_active": true
+  },
+  {
+    "number": 4,
+    "title": "En la manana orare",
+    "lyrics": "En la manana orare\nTu nombre invocare\nGuarda mis pasos, Salvador\nY mi jornada bendecire\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Oración",
+    "author": "Himnario Trino de Dios",
+    "key": "A",
+    "is_active": true
+  },
+  {
+    "number": 5,
+    "title": "Iglesia canta unida",
+    "lyrics": "Iglesia canta unida\nCon gozo y comunion\nUna familia en tu presencia\nUn solo pueblo, un Senor\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Comunión",
+    "author": "Himnario Trino de Dios",
+    "key": "E",
+    "is_active": true
+  },
+  {
+    "number": 6,
+    "title": "Luz para mi senda",
+    "lyrics": "Tu palabra es luz\nLampara a mis pies\nEn la noche me sostiene\nY renueva mi fe\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Alabanza",
+    "author": "Himnario Trino de Dios",
+    "key": "F",
+    "is_active": true
+  },
+  {
+    "number": 7,
+    "title": "Mi refugio eres tu",
+    "lyrics": "Mi refugio eres tu\nMi defensa y mi cancion\nEn tus brazos hay consuelo\nEn tu gracia salvacion\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Esperanza",
+    "author": "Himnario Trino de Dios",
+    "key": "G",
+    "is_active": true
+  },
+  {
+    "number": 8,
+    "title": "Santo, digno y fiel",
+    "lyrics": "Santo, digno y fiel\nDios de gracia y verdad\nHoy rendimos nuestras voces\nA tu santa majestad\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Adoración",
+    "author": "Himnario Trino de Dios",
+    "key": "Bb",
+    "is_active": true
+  },
+  {
+    "number": 9,
+    "title": "Sembradores de paz",
+    "lyrics": "Sembradores de paz seremos\nCon la fe y con el amor\nLlevaremos buenas nuevas\nDel bendito Redentor\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Comunión",
+    "author": "Himnario Trino de Dios",
+    "key": "D",
+    "is_active": true
+  },
+  {
+    "number": 10,
+    "title": "Tu amor permanece",
+    "lyrics": "Tu amor permanece\nNo se cansa, no se ira\nCada dia me levanta\nCada noche guardara\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Español",
+    "category": "Gratitud",
+    "author": "Himnario Trino de Dios",
+    "key": "C",
+    "is_active": true
+  },
+  {
+    "number": 11,
+    "title": "Yaya Dios yupaychani",
+    "lyrics": "Yaya Dios yupaychani\nKawsayta kunki kuyaywan\nÑuka shunkupi kanki\nPuncha punchami yanapanki\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 1",
+    "category": "Adoración",
+    "author": "Himnario Trino de Dios",
+    "key": "G",
+    "is_active": true
+  },
+  {
+    "number": 12,
+    "title": "Apunchikta takishun",
+    "lyrics": "Apunchikta takishun\nKushikuywan llaktapi\nPaypak rimaymi kanchay\nÑanta rikuchin ñukanchikman\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 1",
+    "category": "Alabanza",
+    "author": "Himnario Trino de Dios",
+    "key": "D",
+    "is_active": true
+  },
+  {
+    "number": 13,
+    "title": "Kuyaywan pusaway",
+    "lyrics": "Kuyaywan pusaway\nTutapi punchapi\nAma sakiychu Apunchik\nKanwan purina munani\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 1",
+    "category": "Oración",
+    "author": "Himnario Trino de Dios",
+    "key": "A",
+    "is_active": true
+  },
+  {
+    "number": 14,
+    "title": "Shuklla shunkuwan",
+    "lyrics": "Shuklla shunkuwan shamunchik\nTandanakushpa yupaychanchik\nKawsay mushukta tarinchik\nDiospak kuyay ukupi\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 1",
+    "category": "Comunión",
+    "author": "Himnario Trino de Dios",
+    "key": "E",
+    "is_active": true
+  },
+  {
+    "number": 15,
+    "title": "Kawsay yaku",
+    "lyrics": "Kawsay yaku shamuy\nChakishka shunkuta huntachiy\nKuyay samayta apamuy\nÑukanchikta mushukyachiy\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 1",
+    "category": "Esperanza",
+    "author": "Himnario Trino de Dios",
+    "key": "F",
+    "is_active": true
+  },
+  {
+    "number": 16,
+    "title": "Tayta Diosman takini",
+    "lyrics": "Tayta Diosman takini\nMunaywan yupaychani\nPaymi ñanta rikuchin\nPaymi sumakta wakaychin\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 2",
+    "category": "Adoración",
+    "author": "Himnario Trino de Dios",
+    "key": "G",
+    "is_active": true
+  },
+  {
+    "number": 17,
+    "title": "Jesusta katishun",
+    "lyrics": "Jesusta katishun\nAlli yuyaywan purishun\nPaypak rimayta uyashpa\nKawsayta tarishun\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 2",
+    "category": "Alabanza",
+    "author": "Himnario Trino de Dios",
+    "key": "D",
+    "is_active": true
+  },
+  {
+    "number": 18,
+    "title": "Ñuka mañayta uyariy",
+    "lyrics": "Ñuka mañayta uyariy\nSumak Yaya, kuyak Dios\nWakchayashka shunkuta\nKallpachiy kanpak makipi\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 2",
+    "category": "Oración",
+    "author": "Himnario Trino de Dios",
+    "key": "C",
+    "is_active": true
+  },
+  {
+    "number": 19,
+    "title": "Ayllu hina tandanakuy",
+    "lyrics": "Ayllu hina tandanakuy\nCristopak kuyay ukupi\nKushilla takishunchik\nShuk yuyay, shuk shunkuwan\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 2",
+    "category": "Comunión",
+    "author": "Himnario Trino de Dios",
+    "key": "E",
+    "is_active": true
+  },
+  {
+    "number": 20,
+    "title": "Ñanta kanchachik",
+    "lyrics": "Ñanta kanchachik Dios\nTutapi kanwan purini\nAma manchakunichu\nKanmi ñukapak suyakuymi\n\nCoro:\nGloria sea al Senor,\nmi vida canta con fe;\nen su gracia caminare,\ny su nombre exaltare.",
+    "language": "Kichwa 2",
+    "category": "Esperanza",
+    "author": "Himnario Trino de Dios",
+    "key": "F",
+    "is_active": true
+  }
+]
