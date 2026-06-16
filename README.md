@@ -13,7 +13,7 @@ Esta carpeta es el contenido que puede publicarse en GitHub Pages para que la ap
 Configure en `local.properties`:
 
 ```properties
-HTD_HYMN_UPDATE_MANIFEST_URL=https://SU_USUARIO.github.io/himnario-trino-contenido/manifest.json
+HTD_HYMN_UPDATE_MANIFEST_URL=https://luislema1.github.io/himnario-trino-contenido/manifest.json
 ```
 
 La app descargará `manifest.json` y luego `hymns.json`.
@@ -29,7 +29,7 @@ python tools\build_github_hymn_package.py --version 1
 Si desea indicar la URL absoluta de `hymns.json`:
 
 ```powershell
-python tools\build_github_hymn_package.py --version 1 --hymns-url https://SU_USUARIO.github.io/himnario-trino-contenido/hymns.json
+python tools\build_github_hymn_package.py --version 1 --hymns-url https://luislema1.github.io/himnario-trino-contenido/hymns.json
 ```
 
 ## Seguridad
