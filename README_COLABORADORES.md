@@ -43,7 +43,7 @@ Después de aprobar cambios:
 2. Genere un nuevo `manifest.json` con:
 
 ```powershell
-python tools\build_github_hymn_package.py --version 2
+python tools\publish_hymns_update.py --input templates\himnos_plantilla.csv
 ```
 
 3. Suba `manifest.json` y `hymns.json` a GitHub Pages.
