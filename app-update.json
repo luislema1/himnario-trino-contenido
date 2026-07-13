@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "1.0.2",
+  "version_code": 4,
+  "version_name": "1.0.3",
   "published_at": "2026-07-12",
   "apk_url": "https://luislema1.github.io/himnario-trino-contenido/HimnarioTD.apk",
-  "apk_sha256": "a417f720b8462bb296adb427d22a93cdd6bb4dd4378f9df58ef3c38835051991",
+  "apk_sha256": "9f2e11b581bffa4efcff93f5328aeac1d9cc46fe3a021b2ba7adf1ec26520b14",
   "notes": "Nueva version disponible de Himnario Trino de Dios."
 }
