@@ -1,8 +1,8 @@
 {
-  "version": 3,
-  "published_at": "2026-07-12",
+  "version": 4,
+  "published_at": "2026-07-13",
   "hymns_url": "https://luislema1.github.io/himnario-trino-contenido/hymns.json",
-  "hymns_sha256": "fac2b3ed408d8fe06169dcefbfd427ac6d684654bcb7f3409a2060ba0ec5a35d",
+  "hymns_sha256": "b9d480ec0850f4f124dc2dac84a34111150c97e55fc6a7a654effaf1727e110b",
   "signature": "",
   "notes": "Catalogo aprobado por el administrador de Himnario Trino de Dios."
 }

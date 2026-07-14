@@ -26,10 +26,11 @@ La app descargará `manifest.json` para himnos y `app-update.json` para revisar 
 Desde la raíz del proyecto Android:
 
 ```powershell
-python tools\publish_hymns_update.py --input templates\himnos_plantilla.csv
+python tools\import_hymns_from_word.py --include-all --write-app-assets
+python tools\build_github_hymn_package.py --version 3 --hymns-url https://luislema1.github.io/himnario-trino-contenido/hymns.json
 ```
 
-Ese comando valida la plantilla, actualiza `hymns.json`, incrementa la versión del catálogo y recalcula el SHA-256 del `manifest.json`.
+El primer comando importa los Word oficiales. El segundo genera `github-content/hymns.json`, actualiza la versión del catálogo y recalcula el SHA-256 del `manifest.json`.
 
 Si solo desea empaquetar el JSON ya incluido en la app:
 
@@ -46,7 +47,7 @@ El campo `hymns_sha256` permite que la app rechace descargas dañadas o alterada
 Después de generar un APK release firmado:
 
 ```powershell
-python tools\build_app_update_package.py --version-code 2 --version-name 1.0.1
+python tools\build_app_update_package.py --version-code 5 --version-name 1.1.0
 ```
 
 Suba a GitHub:
@@ -54,4 +55,22 @@ Suba a GitHub:
 ```text
 github-content/HimnarioTD.apk
 github-content/app-update.json
+```
+
+Enlace recomendado para usuarios:
+
+```text
+https://luislema1.github.io/himnario-trino-contenido/HimnarioTD.apk
+```
+
+No use el enlace `blob` para compartir:
+
+```text
+https://github.com/luislema1/himnario-trino-contenido/blob/main/HimnarioTD.apk
+```
+
+Si necesita enlace directo desde GitHub, use `raw`:
+
+```text
+https://github.com/luislema1/himnario-trino-contenido/raw/main/HimnarioTD.apk
 ```

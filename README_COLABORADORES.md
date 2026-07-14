@@ -15,8 +15,9 @@ Puede colaborar de una de estas formas:
 Antes de publicar una alabanza, el administrador debe revisar:
 
 - Que la letra sea propia, autorizada o de dominio público.
-- Que el número del himno no esté duplicado.
-- Que el idioma sea `Español`, `Kichwa 1` o `Kichwa 2`.
+- Que el bloque sea correcto: `Himnario 1`, `Himnario 2` o `Himnario 3`.
+- Que el número del himno no esté duplicado dentro del mismo bloque.
+- Que el idioma sea `Español` o `Quichua (Kichwa)`.
 - Que la categoría esté escrita de forma consistente.
 - Que no existan errores evidentes de ortografía o contenido.
 
@@ -24,6 +25,7 @@ Antes de publicar una alabanza, el administrador debe revisar:
 
 ```json
 {
+  "hymnal": "Himnario 1",
   "number": 101,
   "title": "Título de la alabanza",
   "lyrics": "Primera línea\nSegunda línea\n\nCoro:\nTexto del coro",
@@ -43,7 +45,8 @@ Después de aprobar cambios:
 2. Genere un nuevo `manifest.json` con:
 
 ```powershell
-python tools\publish_hymns_update.py --input templates\himnos_plantilla.csv
+python tools\import_hymns_from_word.py --include-all --write-app-assets
+python tools\build_github_hymn_package.py --version 3 --hymns-url https://luislema1.github.io/himnario-trino-contenido/hymns.json
 ```
 
 3. Suba `manifest.json` y `hymns.json` a GitHub Pages.
