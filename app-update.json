@@ -1,8 +1,8 @@
 {
-  "version_code": 6,
-  "version_name": "1.1.1",
+  "version_code": 7,
+  "version_name": "1.1.2",
   "published_at": "2026-07-13",
   "apk_url": "https://luislema1.github.io/himnario-trino-contenido/HimnarioTD.apk",
-  "apk_sha256": "ea401043a58434c463c43dea918675b7bf310f968e49dfb511dbd0f8f765332e",
-  "notes": "Corrige el cierre automatico al abrir y mejora la migracion del catalogo."
+  "apk_sha256": "e347f293d1693f951ac871881b6732dd07d4a0d9a8c6a7f79f2a766e89292868",
+  "notes": "Mejora la presentacion de la app y limpia textos tecnicos para el usuario."
 }
