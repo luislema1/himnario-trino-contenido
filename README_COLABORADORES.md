@@ -17,7 +17,7 @@ Antes de publicar una alabanza, el administrador debe revisar:
 - Que la letra sea propia, autorizada o de dominio público.
 - Que el bloque sea correcto: `Himnario 1`, `Himnario 2` o `Himnario 3`.
 - Que el número del himno no esté duplicado dentro del mismo bloque.
-- Que el idioma sea `Español` o `Quichua (Kichwa)`.
+- Que el idioma sea `Español` o `Quichua`.
 - Que la categoría esté escrita de forma consistente.
 - Que no existan errores evidentes de ortografía o contenido.
 
