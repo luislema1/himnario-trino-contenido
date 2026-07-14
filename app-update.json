@@ -1,8 +1,8 @@
 {
-  "version_code": 7,
-  "version_name": "1.1.2",
-  "published_at": "2026-07-13",
+  "version_code": 8,
+  "version_name": "1.1.3",
+  "published_at": "2026-07-14",
   "apk_url": "https://luislema1.github.io/himnario-trino-contenido/HimnarioTD.apk",
-  "apk_sha256": "e347f293d1693f951ac871881b6732dd07d4a0d9a8c6a7f79f2a766e89292868",
-  "notes": "Mejora la presentacion de la app y limpia textos tecnicos para el usuario."
+  "apk_sha256": "196c7364dd2c88240719b5e896256f1f39faae4ffaefaf4ac34d4deaf47ad766",
+  "notes": "Agrega informacion ministerial, vision, inspiracion, condiciones de uso, equipo de trabajo y acceso a la comunidad en Facebook."
 }
