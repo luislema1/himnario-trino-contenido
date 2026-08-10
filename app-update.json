@@ -1,8 +1,8 @@
 {
-  "version_code": 11,
-  "version_name": "1.1.6",
+  "version_code": 12,
+  "version_name": "1.1.7",
   "published_at": "2026-08-09",
   "apk_url": "https://luislema1.github.io/himnario-trino-contenido/HimnarioTD.apk",
-  "apk_sha256": "96ac5ecac603d1a229445b5d4f34c6f0c101b988ad975328e666e0d0cc3e9204",
-  "notes": "Actualiza el catalogo de himnos corregido desde los documentos Word."
+  "apk_sha256": "12665ffe4d7cdbf3c2da117f44a4c0c4d3503e041d18a8f55bbcae53e037f964",
+  "notes": "Acceso gratuito a todos los himnarios y recordatorio mensual de apoyo voluntario."
 }
